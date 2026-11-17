@@ -4,6 +4,7 @@ package ilaria.travistest;
  * Hello world!
  *
  */
+//Testing GitHub Actions and SonarQube integration
 public class App 
 {
     public static void main( String[] args )
